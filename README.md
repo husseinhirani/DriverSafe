@@ -1,7 +1,6 @@
 # DriverSafe: A Machine-Learning Based Device to Prevent Distracted Driving
 
-Science fair project (Trabuco Hills High School, 2024) by Hussein Hirani.
-The full project board is in [`docs/DriverSafe-Project-Board.pdf`](docs/DriverSafe-Project-Board.pdf).
+
 
 The project has two parts:
 
@@ -21,7 +20,7 @@ The project has two parts:
 | [`raspberry-pi/`](raspberry-pi) | Raspberry Pi 4 capture-and-classify loop and distracted-driving model | Bash, Python, TFLite |
 | [`hud/pico-w/`](hud/pico-w) | Pico W firmware for the heads-up display | MicroPython (Thonny) |
 | [`hud/companion-app/`](hud/companion-app) | Android app that syncs notifications and contacts to the HUD | MIT App Inventor |
-| [`docs/`](docs) | Project board | |
+
 
 ## How DriverSafe works
 
