@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Android build output and machine-specific config
+build/
+.gradle/
+.idea/
+*.iml
+local.properties
+*.apk
